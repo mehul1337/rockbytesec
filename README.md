@@ -1,6 +1,6 @@
 # Welcome to the RockByte Security Blog
 
-Welcome to the RockByte Security Blog, where we explore the latest trends, techniques, and best practices in the field of cybersecurity. Our goal is to educate and inform both industry professionals and the general public about the importance of cybersecurity and how to protect against cyber threats.
+Welcome to the RockByte Security Blog, where we explore the latest trends, techniques, and best practices in the field of cybersecurity. Our goal is to educate and inform both industry professionals and the general public about the importance of cybersecurity and how to simulate and protect against cyber threats.
 
 ## Topics Covered
 - Network and Infrastructure Security
