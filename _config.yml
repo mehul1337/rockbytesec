@@ -1,0 +1,6 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: RockByte Security Blog
+description: Security Over The Rocks
+google_analytics: G-67FNMPM222
