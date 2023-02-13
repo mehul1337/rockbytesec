@@ -4,3 +4,5 @@ plugins:
 title: RockByte Security Blog
 description: Security Over The Rocks
 google_analytics: G-67FNMPM222
+github:
+  is_project_page: false
