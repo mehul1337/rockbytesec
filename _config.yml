@@ -8,9 +8,9 @@ github:
   is_project_page: false
 
 menu_title: Menu
-menu:
+menu_list:
 
 - title: Home
   url: /
 - title: About
-  url: /about.html
+  url: /about.md
