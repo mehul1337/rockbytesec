@@ -6,3 +6,11 @@ description: Security Over The Rocks
 google_analytics: G-67FNMPM222
 github:
   is_project_page: false
+
+menu_title: Menu
+menu:
+
+- title: Home
+  url: /
+- title: About
+  url: /about.html
